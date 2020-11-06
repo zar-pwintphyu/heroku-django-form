@@ -10,7 +10,8 @@ STATES = (
     ('', 'Choose...'),
     ('Tokyo', 'Tokyo'),
     ('Osaka', 'Osaka'),
-    ('Okayama', 'Okayama')
+    ('Okayama', 'Okayama'),
+    ('Okinawa', 'Okinawa')
 )
 
 
